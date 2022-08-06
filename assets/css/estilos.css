@@ -1,39 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
 body {
-  font-family: "Raleway", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 /* Hero Section */
 
+/* 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+}
+*/
+
+#Hero-Video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	object-fit: initial;
+	width: 100%;
+	height: 100%;
+}
+
+#Hero-Section {
+	--bg-overlay-color: rgba(107, 71, 4, 0.65);
+
+	background-image: linear-gradient(
+		var(--bg-overlay-color),
+		var(--bg-overlay-color)
+	);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	position: relative;
 }
 
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 /* Contacto */
 
 #Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
+	font-weight: 700;
+	color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
-    font-weight: 400;
-  }
+	#Contacto form label {
+		font-weight: 400;
+	}
 
-  .navbar-brand{
-    width: 100px;
-  }
-
+	.navbar-brand {
+		width: 100px;
+	}
 }

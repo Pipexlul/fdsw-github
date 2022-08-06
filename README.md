@@ -18,6 +18,16 @@ Pequeño proyecto forkeado para la realización del **desafío #5** (Git/Github)
 
 ## Changelog
 
+### 6/8/22 - Commit 3
+
+- Actualizacion visual: cambios en el tema, fondo de la seccion hero ahora es un video.
+- Nueva fuente: Montserrat
+
+### 6/8/22 - Commit 2
+
+- Cambio de datos como nombre, sobre mi, mis proyectos, lenguajes y footer.
+- Añadi devicons
+
 ### 6/8/22 - Commit 1
 
 - Fork al repositorio original
