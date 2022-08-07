@@ -18,6 +18,11 @@ Pequeño proyecto forkeado para la realización del **desafío #5** (Git/Github)
 
 ## Changelog
 
+### 7/8/22 - Commit 6
+
+- Limpieza de recursos que no se usaban
+- Formateo de archivos
+
 ### 7/8/22 - Commit 5
 
 - Nueva imagen para las cartas de mis proyectos
