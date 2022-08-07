@@ -18,6 +18,10 @@ Pequeño proyecto forkeado para la realización del **desafío #5** (Git/Github)
 
 ## Changelog
 
+### 7/8/22 - Commit 4
+
+- Se añadió script validador de datos en la sección de contacto.
+
 ### 6/8/22 - Commit 3
 
 - Actualizacion visual: cambios en el tema, fondo de la seccion hero ahora es un video.
