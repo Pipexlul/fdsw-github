@@ -18,6 +18,11 @@ Pequeño proyecto forkeado para la realización del **desafío #5** (Git/Github)
 
 ## Changelog
 
+### 7/8/22 - Commit 5
+
+- Nueva imagen para las cartas de mis proyectos
+- Limpieza general de archivos que no se usaban
+
 ### 7/8/22 - Commit 4
 
 - Se añadió script validador de datos en la sección de contacto.
